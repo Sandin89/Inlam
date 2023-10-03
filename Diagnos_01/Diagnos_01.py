@@ -41,7 +41,3 @@ if limit > 99:
     limit = 99
 primes = find_primes(limit)  
 print("Primtalen upp till", limit, "är:", primes)  
-
-"""Denna kod kan jag ej ta åt mig hela äran för, majoriteten har jag skrivit själv men jag fick använda mig at forum och youtube för att få ihop koden där min kunskap inte räckte till. 
-Då jag var hemma med sjukt barn förra fredagen så var jag inte på plats när diagnos 1 gicks igenom, därför sökte jag efter lösningar där jag inte kunde slutföra koden, innan jag senare fick höra av klasskamrater att uppgiften inte behöve vara 100%
-Jag kan söka och hitta lösningar till avancecrade koder men vill vara extra tydlig med att jag inte skrivit allt detta själv och målet är att utbilda mig djupare så att jag ej behöver söka efter lösningar på enklare uppgifter."""
